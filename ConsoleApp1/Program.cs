@@ -1,4 +1,5 @@
-﻿using System.Text.Json.Nodes;
+﻿using System.Security.Cryptography.X509Certificates;
+using System.Text.Json.Nodes;
 using System.Text.Json.Serialization;
 
 namespace ConsoleApp1
@@ -7,6 +8,11 @@ namespace ConsoleApp1
     {
         public List<string> nevek { get; set; }
         public List<int> korok { get; set; }
+    }
+    class diak 
+    { 
+    public string nev { get; set; }
+    PublicKey List<int> jegyek { get; set; }
     }
     internal class Program
     {

@@ -1,4 +1,18 @@
 {
   "nevek": [ "Anna", "Béla", "Mária" ],
-   "korok": [ 25, 30, 22 ],
+  "korok": [ 25, 30, 22 ],
 }
+[
+  {
+    "nev": "Anna",
+    "kor": 25
+  },
+  {
+    "nev": "Béla",
+    "kor": 30
+  },
+  {
+    "nev": "Mária",
+    "": 22
+  }
+]
