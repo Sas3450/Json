@@ -4,15 +4,15 @@
 }
 [
   {
-    "nev": "Anna",
-    "kor": 25
+    "nev": "Kovács Péter",
+    "jegyek": [ 5, 4, 4, 5 ]
   },
   {
-    "nev": "Béla",
-    "kor": 30
+    "nev": "Nagy Anna",
+    "jegyek": [ 3, 2, 4, 5 ]
   },
   {
-    "nev": "Mária",
-    "": 22
+    "nev": "Szabó István",
+    "jegyek": [ 5, 5, 5, 4 ]
   }
 ]
